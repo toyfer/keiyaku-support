@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.db-journal
+.DS_Store
+.venv/
+venv/
+*.log
+data/output/*.xlsx
+data/output/*.xlsm
+data/keiyaku.db
+data/templates/*.xlsx
+data/templates_excel/*.xlsx
+!data/templates/.gitkeep
+!data/templates_excel/.gitkeep
+!data/output/.gitkeep

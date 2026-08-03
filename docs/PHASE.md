@@ -13,19 +13,20 @@
 - [x] 工事 Q47–51 / 業務 Q5–6,12–15 / 前払金額
 - [x] 回帰: `scripts/test_*.py`
 
-## Phase 2（本コミット）— 運用品質
+## Phase 2（リポ反映済み）— 運用品質
 
 - [x] 物品 `BUPPIN_MAP`（基本項目）
-- [x] `form_templates.py` — 市様式 Excel へのセルマップ/プレースホルダ
-- [x] 推奨帳票シート案内（`template_profile`）
+- [x] `form_templates.py` — 市様式 Excel
+- [x] 推奨帳票シート案内
 - [x] 一覧フィルタ（種別・状態）
-- [x] 分割配布ドキュメント
-- [ ] templates_excel 各ファイルの実測セル座標完備（機能は予備、座標は運用で追加）
+- [x] 分割配布ドキュメント + `pack_split.py`
+- [ ] templates_excel 各ファイルの実測セル座標完備
+- [ ] GitHub Release に B/C/D 添付（Issue #1・手元 zip）
 
 ## Phase 3（任意）
 
 - inspections 複数回
 - case_stage_progress 連動
-- 様式 515 選択同棲ツール
+- 様式 515 選択同梱ツール
 - users 職員マスタ
 - 祝日対応営業日
